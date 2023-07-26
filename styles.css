@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding: 0px;
+	background-color:aliceblue;
+}
+img{
+	border:2px solid black;
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+h1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#skills{
+	margin-top: 20px;
+}
+#projects{
+	margin-top: 20px;
+}
